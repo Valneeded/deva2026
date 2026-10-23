@@ -2497,3 +2497,56 @@ a {
   padding-bottom: 30px;
   background-color: #232323;
 }
+/* Ganadores DEVA 2026 */
+.cid-vjMR1dSwaT .ganadores-hero {
+  margin-top: 1rem;
+}
+.cid-vjMR1dSwaT .ganadores-hero a {
+  color: #ffffff;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.cid-vjMR1dSwaT .ganadores-hero a:hover {
+  color: #23bcf5;
+}
+.ganadores26 {
+  padding-top: 4rem;
+  padding-bottom: 3rem;
+  background-color: #f7f7f7;
+}
+.ganadores26 .ganadores26-eyebrow {
+  color: #d70081;
+  margin-bottom: 0.5rem;
+}
+.ganadores26 .mbr-section-title {
+  color: #232323;
+  font-family: 'Open Sans', sans-serif;
+  margin-bottom: 1.5rem;
+}
+.ganadores26 .ganadores26-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2.5rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.75rem;
+}
+.ganadores26 .ganadores26-list a {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  border: 2px solid #23bcf5;
+  border-radius: 2rem;
+  color: #232323;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background-color 0.2s, color 0.2s;
+}
+.ganadores26 .ganadores26-list a:hover {
+  background-color: #23bcf5;
+  color: #ffffff;
+}
+.ganadores26 .ganadores26-fotos img {
+  aspect-ratio: 3 / 2;
+  object-fit: cover;
+}
